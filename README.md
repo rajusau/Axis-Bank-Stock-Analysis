@@ -60,7 +60,7 @@ The project includes the following analyses:
 
 ## Files
 
-- `axis_bank_stock_analysis.ipynb`: Jupyter Notebook containing the analysis.
+- `Axis Bank Stock Analysis.ipynb`: Jupyter Notebook containing the analysis.
 - `README.md`: This file.
 
 
